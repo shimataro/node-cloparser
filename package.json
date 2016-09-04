@@ -1,0 +1,20 @@
+{
+  "name": "node-cloparser",
+  "version": "0.0.1",
+  "description": "Command Line Options Parser for Node.js",
+  "author": "shimataro",
+  "license": "MIT",
+  "homepage": "https://github.com/shimataro/node-cloparser",
+  "main": "./index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shimataro/node-cloparser.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
